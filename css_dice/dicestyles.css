@@ -1,0 +1,42 @@
+body
+{
+    background-color:rgb(236, 72, 72);
+}
+
+.div1
+{
+    position: absolute;
+    top: 30%; 
+
+    
+
+}
+h1{
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 100px;
+    font-weight: bolder;
+    color:aqua;
+
+}
+p
+{
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size:70px;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+
+.dice1
+{
+    position: absolute;
+    left: 30%;
+}
+
+.dice2
+{
+    position:absolute;
+    left: 60%;
+    bottom:24%;
+}
